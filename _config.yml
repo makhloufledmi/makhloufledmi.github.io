@@ -28,7 +28,7 @@ footer_text: >
   
 icon: 🔥 # the emoji used as the favicon
 baseurl:   # the subpath of your site, e.g. /blog
-url: '' # the base hostname & protocol for your site, e.g. http://example.com
+url: 'https://magalichampion.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 last_updated: true
 future: true
 timezone: TIMEZONE
