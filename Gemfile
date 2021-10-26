@@ -12,5 +12,6 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'unicode_utils'
+    gem 'kramdown-parser-gfm'
     gem 'webrick'
 end
