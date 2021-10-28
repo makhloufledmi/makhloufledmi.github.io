@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2021-10-20 07:59:00-0400
 inline: true
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+The [l1spectral](https://cran.r-project.org/web/packages/l1spectral/index.html) package is now available on CRAN. 💻
