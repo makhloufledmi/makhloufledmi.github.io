@@ -18,8 +18,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-    
-Since 2018, I have been an assistant professor in statistics at the department STID of IUT Paris-Rives de Seine, Université de Paris. I am a member of the [MAP5](https://map5.mi.parisdescartes.fr/) lab. Before that, I worked as a postdoctoral researcher at the MAP5, where I was part of the biomedical project LIONS. I also spent one year as a postdoctoral researcher at the Stanford Center for Biomedical Informatics Research (BMIR) within the Geveart lab. I completed my PhD in December 2014 from the University of Toulouse under the supervision of Sébastien Gadat, Christine Cierco-Ayrolles and Matthieu Vignes.
+I am an assistant professor in statistics at the department STID of IUT Paris-Rives de Seine, Université Paris Cité and a member of the [MAP5](https://map5.mi.parisdescartes.fr/) lab. Since the beginning of January, I have also been a member of the Seminar for Statistics lab from ETH Zürich, where I work as a guest researcher.
+Before that, I worked as a postdoctoral researcher at the MAP5, where I was part of a biomedical project. I also spent one year as a postdoctoral researcher at the Stanford Center for Biomedical Informatics Research (BMIR). I completed my PhD in December 2014 from the University of Toulouse under the supervision of Sébastien Gadat, Christine Cierco-Ayrolles and Matthieu Vignes.
 
 For more info about me, please check my <a href="assets/pdf/CVMChampion2.pdf">CV (last update 05/2021)</a>.
 
