@@ -8,8 +8,9 @@ display_categories:
 horizontal: false
 ---
 
-Assistant Professor in Statistics, MAP5, IUT Paris-Rives de Seine, Université de Paris
+Assistant Professor in Statistics, MAP5, IUT Paris-Rives de Seine, Université Paris Cité
 
+Guest researcher, Seminar for Statistics, ETH Zürich
 
 #### Responsabilities
 
@@ -32,6 +33,6 @@ Assistant Professor in Statistics, MAP5, IUT Paris-Rives de Seine, Université d
    
 #### Current projects
 
-- In collaboration with Mathilde Pacault (Centre Hospitalier Régionale Universitaire, Brest), Camille Verebi (Hôpital Cochin, Paris), Romain Daveau (AP-HP) Juliette Nectoux (Hôpital Cochin, Paris), we are working on Sequential Probability Ratio Tests for applications to non-invasive prenatal diagnosis (NIPD). 
+- In collaboration with Mathilde Pacault (Centre Hospitalier Régionale Universitaire, Brest), Camille Verebi (Hôpital Cochin, Paris), Romain Daveau (AP-HP) Juliette Nectoux (Hôpital Cochin, Paris), we are working on Sequential Probability Ratio Tests with applications to non-invasive prenatal diagnosis (NIPD). 
 
 - As part of the PhD works of Camille Champion, I am also interested in sparse robust spectral clustering techniques for clustering large perturbed graphs. 
