@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2021-10-20 07:59:00-0400
+date: 2022-05-16 07:59:00-0400
 inline: true
 ---
 
-The [l1spectral](https://cran.r-project.org/web/packages/l1spectral/index.html) package is now available on CRAN. 💻
+Our NIPD (Non-Invasive Prenatal Diagnosis) paper is on its way to be submitted. 📰
