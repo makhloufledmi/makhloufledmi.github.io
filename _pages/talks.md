@@ -8,7 +8,7 @@ display_categories: [International conferences]
 horizontal: false
 ---
 
-You can find below a list of talks (international conferences, national conferences and seminars) I've given the last years, sorted in decreasing chronological order and by topics.
+You can find below a list of talks (international conferences, national conferences and seminars) I (or one of my co-authors) have given the last years, sorted in decreasing chronological order and by topics.
 
 <br/> 
 
@@ -17,6 +17,7 @@ You can find below a list of talks (international conferences, national conferen
 
 <br/>
 
+- European Human Genetics Conference (ESHG) "Non-invasive prenatal diagnosis of monogenic diseases by enhanced relative haplotype dosage analysis", Vienna (Austria), 11st of June 2022. _Presented by J. Nectoux_.
 
 - The 12th International Conference on Bioinformatics and Computational Biology (BICOB) "Identification of deregulated transcription factors in specific bladder cancer subtypes", San Francisco (USA), 23rd of March 2020. _Canceled due to coronavirus_.
     
@@ -39,6 +40,8 @@ You can find below a list of talks (international conferences, national conferen
 
 <br/>
 
+- 11ièmes assises de génétique humaine et médicale "Diagnostic prénatal non invasif des maladies monogénétiques par dosage relatif d'haplotype" et "Détermination prénatale non invasive du génotype foetal chez des femmes enceintes présentant un diabète monogénique MODY-GCK : étude de faisabilité chez 24 patientes", _presented by J. Nectoux and C. Verebi_, Rennes (France), 02/01/22.
+
 - 6ièmes Rencontres R "GADAG : un paquet R dédié à l'inférence de Graphes Acycliques Dirigés par maximum de vraisemblance pénalisé", Anglet (France), 06/30/17.
 
 - 49ièmes Journées de Statistique de la SFDS "Inférence de Graphes Acycliques Dirigés par maximum de vraisemblance pénalisé", Avignon (France), 05/30/17.
@@ -58,7 +61,12 @@ You can find below a list of talks (international conferences, national conferen
 
 <br/>
 
-- "l1-spectral clustering algorithm: a robust spectral clustering using Lasso regularization": 01/08/21 at Université de Rennes.
+- "l1-spectral clustering algorithm: a robust spectral clustering using Lasso regularization":
+    - 03/04/22 at ETH Zürich,
+    
+    - 02/11/22 webtalk for the Statistical learning seminar,
+    
+    - 01/08/21 at Université de Rennes.
 
 - "Sparse regression and optimization in high-dimensional framework for Gene Regulatory Network inference: application to cancer data": 
     - 05/23/19 at Université de Rouen,
