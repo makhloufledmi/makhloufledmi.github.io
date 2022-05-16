@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Assistant Professor in Statistics, MAP5, IUT Paris-Rives de Seine, Université de Paris
+description: Assistant Professor in Statistics, MAP5, IUT Paris-Rives de Seine, Université Paris Cité and guest researcher, Seminar for Statistics, ETH Zürich
 
 profile:
   align: right
@@ -18,8 +18,9 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an assistant professor in statistics at the department STID of IUT Paris-Rives de Seine, Université Paris Cité and a member of the [MAP5](https://map5.mi.parisdescartes.fr/) lab. Since the beginning of January, I have also been a member of the Seminar for Statistics lab from ETH Zürich, where I work as a guest researcher.
-Before that, I worked as a postdoctoral researcher at the MAP5, where I was part of a biomedical project. I also spent one year as a postdoctoral researcher at the Stanford Center for Biomedical Informatics Research (BMIR). I completed my PhD in December 2014 from the University of Toulouse under the supervision of Sébastien Gadat, Christine Cierco-Ayrolles and Matthieu Vignes.
+I am an assistant professor in statistics at the department STID of IUT Paris-Rives de Seine, Université Paris Cité and a member of the [MAP5](https://map5.mi.parisdescartes.fr/) lab. Since the beginning of January, I have also been a guest researcher at the [Seminar for Statistics](https://math.ethz.ch/sfs) lab from ETH Zürich.
+
+Before that, I worked as a postdoctoral researcher at the MAP5, where I was part of a biomedical project. I also spent one year as a postdoctoral researcher at the Stanford Center for Biomedical Informatics Research (BMIR). I completed my PhD in December 2014 from Université Toulouse III under the supervision of Sébastien Gadat, Christine Cierco-Ayrolles and Matthieu Vignes.
 
 For more info about me, please check my <a href="assets/pdf/CVMChampion2.pdf">CV (last update 05/2021)</a>.
 
