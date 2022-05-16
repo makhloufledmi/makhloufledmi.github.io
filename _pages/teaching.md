@@ -2,10 +2,10 @@
 layout: teaching
 permalink: /teaching/
 title: Teaching
-description2: I teach 192h per year at IUT Paris-Rives de Seine, Université de Paris. You can reach me there at the following mailing address.
+description2: I teach 192h per year at IUT Paris-Rives de Seine, Université Paris Cité. You can reach me there at the following mailing address.
 profile:
   align: right
-  image: paris2.png
+  image: UniversiteParis_IUTParis-RdS.jpg
 address2: Office B4-16
 address3: Département STID, IUT Paris-Rives de Seine
 address4: 143 avenue de Versailles, 75016 Paris 
@@ -48,6 +48,6 @@ You can find below materials for some of the courses (mostly in french) I've tau
 - Statistiques avec R : 1ères années FI (avec Pierre Latouche)
 <a href="{{site.baseurl}}/assets/pdf/coursR.pdf">[Polycopié]</a>
 
-- Introduction au data mining : DU Data Science
+- Introduction au data mining : DU Data Science <a href="{{site.baseurl}}/assets/pdf/DataMining.pdf">[slides]</a>
 
 - Introduction au logiciel R : DU Big Data et DataViz
