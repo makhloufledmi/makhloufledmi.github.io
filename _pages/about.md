@@ -8,10 +8,11 @@ profile:
   align: right
   image: DSC02641.JPG
   address: >
-    <p>Office 735E</p>
-    <p>MAP5, Université de Paris</p>
-    <p>45 rue des Saints-Pères</p>
-    <p>75006 Paris </p>
+    <p>Office HG G12</p>
+    <p>SfS, ETH Zürich</p>
+    <p>Rämistrasse 101</p>
+    <p>8006 Zürich </p>
+    <p> (Until July...) </p>
     <p><a href="mailto:magali.champion@u-paris.fr">magali.champion[at]u-paris[dot]fr</a></p>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
