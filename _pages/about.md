@@ -23,7 +23,7 @@ I am an assistant professor in statistics at the department STID of IUT Paris-Ri
 
 Before that, I worked as a postdoctoral researcher at the MAP5, where I was part of a biomedical project. I also spent one year as a postdoctoral researcher at the Stanford Center for Biomedical Informatics Research (BMIR). I completed my PhD in December 2014 from Université Toulouse III under the supervision of Sébastien Gadat, Christine Cierco-Ayrolles and Matthieu Vignes.
 
-For more info about me, please check my <a href="assets/pdf/CVMChampion2.pdf">CV (last update 05/2021)</a>.
+For more info about me, please check my <a href="assets/pdf/CVMChampion2.pdf">CV (last update 05/2022)</a>.
 
 ### Responsabilities
 
