@@ -3,11 +3,11 @@ layout: page
 permalink: /publications/
 title: Publications
 description:  
-years: [2021, 2020, 2018, 2017, 2016, 2015, 2014]
+years: [2021, 2018, 2017, 2016, 2015, 2014]
 nav: true
 ---
 
-You can find below a list of my publications by categories (preprint, international journal and conference proceedings, thesis) and in reversed chronological order.
+You can find below a list of my publications by categories (preprint, international journal, conference proceedings and thesis) and in reversed chronological order.
 
 ## Preprint
 
@@ -17,7 +17,7 @@ You can find below a list of my publications by categories (preprint, internatio
 
 </div>
 
-## International journal and conference proceedings
+## International journal
 
 <div class="publications">
 
@@ -29,6 +29,14 @@ You can find below a list of my publications by categories (preprint, internatio
 
 </div>
 
+## Conference proceedings
+
+<div class="publications">
+
+{% bibliography --file mchampion_proc %}
+
+
+</div>
 
 ## Thesis
 

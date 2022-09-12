@@ -8,7 +8,7 @@ display_categories: [International conferences]
 horizontal: false
 ---
 
-You can find below a list of talks (international conferences, national conferences and seminars) I (or one of my co-authors) have given the last years, sorted in decreasing chronological order and by topics.
+You can find below a list of talks I (or one of my co-authors) have given the last years, sorted in decreasing chronological order or by topics.
 
 <br/> 
 
@@ -17,51 +17,65 @@ You can find below a list of talks (international conferences, national conferen
 
 <br/>
 
-- European Human Genetics Conference (ESHG) "Non-invasive prenatal diagnosis of monogenic diseases by enhanced relative haplotype dosage analysis", Vienna (Austria), 11st of June 2022. _Presented by J. Nectoux_.
+- M. Pacault, C. Verebi, M. Champion, L. Orhant, A. Perrier, C. Férec, T. Bienvenu, R. Daveau and <ins>J. Nectoux</ins>. Non-invasive prenatal diagnosis of monogenic diseases by enhanced relative haplotype
+dosage analysis. European Human Genetics Conference (ESHG), Vienna, Austria (2022).
 
-- The 12th International Conference on Bioinformatics and Computational Biology (BICOB) "Identification of deregulated transcription factors in specific bladder cancer subtypes", San Francisco (USA), 23rd of March 2020. _Canceled due to coronavirus_.
+-  <ins> M. Champion</ins>, J. Chiquet, P. Neuvial, M. Elati, F. Radvanyi and E. Birmelé. Identification of deregulated transcription factors in specific bladder cancer subtypes. 12th International Conference on Bioinformatics and Computational Biology
+(BICOB), San Francisco, United States (2020). _Canceled due to Coronavirus_.
     
-- Intelligent Systems for Molecular Biology (ISMB) "Module Analysis Captures Pancancer Genetically and Epigenetically Deregulated Cancer Driver Genes for Smoking and Antiviral Response", Boston (USA), 9th of July 2018. _Presented by O. Gevaert_.
+- M. Champion, K. Brennan, T. Croonenborghs, A. Gentles, N. Pochet and <ins> O. Gevaert</ins>. Module Analysis Captures Pancancer Genetically and Epigenetically Deregulated Cancer Driver Genes for Smoking and Antiviral Response. Intelligent Systems
+for Molecular Biology (ISMB), Boston, United States (2018). 
     
-- The 16th International Conference on Bioinformatics InCoB, poster: "Identification of deregulated transcription factors in specific subtypes of cancer", Shenzhen (Chine), 22nd of September 2017.
+- <ins> M. Champion</ins>, J. Chiquet, P. Neuvial, M. Elati and E. Birmelé. Identification of deregulated transcription factors in specific subtypes of cancer. 16th International Conference on Bioinformatics (InCoB), 
+Shenzhen, China (2017).
 
-- Keystone symposia on Molecular and Cellular Biology: The Cancer Genome "Pancancer module analysis captures major oncogenic pathways and identifies master regulator of immune response", Banff (Canada), 7th of February 2016.
+- <ins>M. Champion</ins> and O. Gevaert. Pancancer module analysis captures major oncogenic pathways and identifies master regulator of immune response. Keystone symposia on Molecular and Cellular Biology: The Cancer Genome, Banff, Canada (2016).
 
-- 14th Annual International Conference on Critical Assessment of Massive Data Analysis "Multi-omics data fusion for cancer data", Dublin (Ireland), 11th of July 2015. _Presented by O. Geveart_.
+- M. Champion and <ins>O. Gevaert</ins>. Multi-omics data fusion for cancer data.  14th Annual International Conference on Critical Assessment of Massive Data Analysis (CAMDA), Dublin, Ireland (2015). 
 
-- SIAM Conference on Uncertainty Quantification "L2-Boosting on Generalized Hoeffding Decomposition for Dependent Variables. Application to Sensitivity Analysis", Savannah (USA), 31st of March 2014.
+- <ins>M. Champion</ins>, G. Chastaing, S. Gadat and C. Prieur. L2-Boosting on Generalized Hoeffding Decomposition for Dependent Variables. SIAM Conference on Uncertainty Quantification, Savannah, United States (2014).
 
-- NIPS Whorshop Machine Learning for Computational Biology, poster: "An L2-Boosting algorithm for sparse multivariate regression: application to gene network recovery", Sierra Nevada (Spain), 17th of December 2011. 
+- <ins>M. Champion</ins>, J. Vandel, C. Cierco-Ayrolles, S. Gadat and M. Vignes. An L2-Boosting algorithm for sparse
+multivariate regression: application to gene network recovery. NIPS Machine Learning for Computational Biology Workshop, Sierra Nevada, Spain (2011).
 
 <br/>
  
 ----------------
-<div style="text-align: right"> <h3> <span style="color: silver;"> National conferences</span> </h3>  </div>
+<div style="text-align: right"> <h3> <span style="color: silver;"> Other peer-reviewed conferences</span> </h3>  </div>
 
 <br/>
 
-- 11ièmes assises de génétique humaine et médicale "Diagnostic prénatal non invasif des maladies monogénétiques par dosage relatif d'haplotype" et "Détermination prénatale non invasive du génotype foetal chez des femmes enceintes présentant un diabète monogénique MODY-GCK : étude de faisabilité chez 24 patientes", _presented by J. Nectoux and C. Verebi_, Rennes (France), 02/01/22.
+- M. Pacault, C. Verebi, M. Champion, L. Orhant, A. Perrier, C. Férec, T. Bienvenu, R. Daveau and <ins>J. Nectoux</ins>. Non-invasive prenatal diagnostic of monogenic diseases by relative haplotype dosage. 11th Meeting of Human and Medical Genetics, Rennes, France (2022).
 
-- 6ièmes Rencontres R "GADAG : un paquet R dédié à l'inférence de Graphes Acycliques Dirigés par maximum de vraisemblance pénalisé", Anglet (France), 06/30/17.
+- J. Nectoux, <ins>C. Verebi</ins>, R. Daveau, A. Launois, L. Orhant, G. Leroy, M. Champion, D. Bouvet, C. Saint-Martin, C. Ciangura, and C. Bellané-Chantelot. Non-invasive prenatal determination of the fetal genotype for pregnant women suffering from monogenic diabetes MODY-GCK: feasibility study on 24 patients. 11th Meeting of Human and Medical Genetics, Rennes, France (2022).
 
-- 49ièmes Journées de Statistique de la SFDS "Inférence de Graphes Acycliques Dirigés par maximum de vraisemblance pénalisé", Avignon (France), 05/30/17.
+- <ins>M. Pacault</ins>, C. Férec and M. Champion. Non Invasive Prenatal Diagnosis of Single Gene Disorders using long read technologies. Scientific days from the Biological-Health doctoral school, Angers, France (2019).
+
+- <ins>M. Champion</ins>, V. Picheny and M.Vignes. GADAG: an R-package for inferring Directed Acyclic Graphs by penalized maximum likelihood. 6th R meeting, Anglet, France (2017).
+
+- <ins>M. Champion</ins>, V. Picheny and M.Vignes. Inferring Directed Acyclic Graphs by penalized maximum likelihood. 49th Statistics days of the French Statistical Society, Avignon, France (2017).
+
+- <ins>M. Champion</ins>, J. Chiquet, P. Neuvial and E. Birmelé. Identification of deregulated transcription factors in bladder cancer. Colloquim CARTABLE for Network Learning, Toulouse, France (2016).
     
-- Stanford Cancer Institute Trainees Symposium "Pancancer module analysis captures major oncogenic pathways and identifies master regulator of immune response", Stanford (USA), 02/23/16.
+- <ins>M. Champion</ins> and O. Gevaert. Pancancer module analysis captures major oncogenic pathways and identifies master regulator of immune response. Stanford Cancer Institute Trainees Symposium, Stanford, United States (2016).
     
-- StatMathAppli 2015 "Multi-omics data fusion for cancer data", Fréjus (France), 08/31/15.
+- <ins>M. Champion</ins> and O. Gevaert. Multi-omics data fusion for cancer data. StatMathAppli conference, Fréjus, France (2015).
 
-- StatMathAppli 2013 "Convex optimization for learning Gene Regulatory Network", Fréjus (France), 09/03/13.
+- <ins>M. Vignes</ins>, M. Champion and V. Picheny. Statistical causal inference in a complex system - an hybrid convex-genetic algorithm. Joint New Zealand Statistical Association (NZSA) and Operations Research Society of New Zealand (ORSNZ) conference, Wellington, New Zealand (2014).
 
-- 45ièmes Journées de Statistique de la SFDS "Résultats sur les algorithmes de L2-Boosting pour les régressions parcimonieuses", Toulouse (France), 05/27/13. 
+- <ins>M. Champion</ins>, C. Cierco-Ayrolles, S. Gadat and M. Vignes. Convex optimization for learning Gene Regulatory Network. StatMathAppli conference, Fréjus, France (2013).
+
+- <ins>M. Champion</ins>, C. Cierco-Ayrolles, S. Gadat and M. Vignes. Results on the L2-Boosting algorithms for sparse regressions. 45th Statistics days of the French Statistical Society, Toulouse, France (2013).
 
 <br/>
 
 ----------------
-<div style="text-align: right"> <h3> <span style="color: silver;"> Other talks</span> </h3>  </div>
+<div style="text-align: right"> <h3> <span style="color: silver;"> Invited talks at seminars</span> </h3>  </div>
 
 <br/>
 
 - "l1-spectral clustering algorithm: a robust spectral clustering using Lasso regularization":
+
     - 03/04/22 at ETH Zürich,
     
     - 02/11/22 webtalk for the Statistical learning seminar,
@@ -69,6 +83,7 @@ You can find below a list of talks (international conferences, national conferen
     - 01/08/21 at Université de Rennes.
 
 - "Sparse regression and optimization in high-dimensional framework for Gene Regulatory Network inference: application to cancer data": 
+
     - 05/23/19 at Université de Rouen,
     
     - 03/05/18 at Université de Montpellier,
@@ -87,12 +102,8 @@ You can find below a list of talks (international conferences, national conferen
     
     - 11/24/16 at INRIA Nancy.
 
-- "Identification of deregulated transcription factors in bladder cancer":
-
-    - 11/27/19 at Université de Lille,
-    
-    - Colloquium CARTABLE for Network Learning, Toulouse, 10/14/16.
-
+- "Identification of deregulated transcription factors in bladder cancer": 11/27/19 at Université de Lille.    
+ 
 - "AMARETTO: a multi-omics data integration framework": 
 
     - 02/19/19 at Université de Bordeaux,
@@ -115,8 +126,8 @@ You can find below a list of talks (international conferences, national conferen
     
     - 10/07/14 at Université Toulouse I.
 
-- "Statistical causal inference of Gene Regulatory Networks using l1 penalized likelihood" at INRA Jouy-en-Josas.
-
+- "Statistical causal inference of Gene Regulatory Networks using l1 penalized likelihood": 03/10/15 at INRA Jouy-en-Josas.
+    
 - "An hybrid convex/greedy algorithm for learning DAG": 
 
     - 06/16/2014 at Université de Strasbourg,
@@ -129,4 +140,4 @@ You can find below a list of talks (international conferences, national conferen
     
     - 06/14/13 at INRA Toulouse.
 
-- "Résultats sur les algorithmes de L2-Boosting pour les régressions sparses : cadre formel et extensions à la situation multivariée": 02/04/13 INRA Montpellier. 
+- "Résultats sur les algorithmes de L2-Boosting pour les régressions sparses : cadre formel et extensions à la situation multivariée": 02/04/13 at INRA Montpellier. 
