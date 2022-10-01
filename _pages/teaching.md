@@ -2,13 +2,13 @@
 layout: teaching
 permalink: /teaching/
 title: Teaching
-description2: I teach 192h per year at IUT Paris-Rives de Seine, Université Paris Cité. You can reach me there at the following mailing address.
+description2: I teach 288h per year at Sciences and Technology Faculty, University of Khenchela. You can reach me there at the following mailing address.
 profile:
   align: right
   image: UniversiteParis_IUTParis-RdS.jpg
-address2: Office B4-16
-address3: Département STID, IUT Paris-Rives de Seine
-address4: 143 avenue de Versailles, 75016 Paris 
+address2: Département M & CS
+address3: Sciences and Technology Faculty, University of Khenchela
+address4: Raod of Oum El Bouaghi, El Hamma, 40000 Khenchela 
 nav: true
 ---
 
