@@ -8,10 +8,10 @@ profile:
   align: right
   image: Makh_UK.jpg
   address: >
-    <p>Office 732-E</p>
-    <p>ICOSI, University of Khenchela</p>
+    <p>M&I Department</p>
+    <p>ICOSI, Abbes Laghrour University</p>
     <p>BP 1252 Road of Batna</p>
-    <p>40004 Paris</p>
+    <p>40004 Khenchela, Algeria</p>
     <p><a href="mailto:ledmi.makhlouf@univ-khenchela.dz">ledmi.makhlouf[at]univ-khenchela[dot]dz</a></p>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -25,22 +25,15 @@ I received my BS degree from the University of Annaba, in 1997, MS degree from t
 
 For more info about me, please check my <a href="assets/pdf/CVMChampion2.pdf">CV (last update 07/2022)</a>.
 
-### Responsabilities
-
-- Associate editor of the [International Journal of Biostatistics](https://www.degruyter.com/journal/key/ijb/html)
-
 
 
 ### Research interests
 
-- Statistical learning
-   - high-dimensional statistics
-   - graphical models
-   - penalized inear regressions
-   - sparse methods
-   - clustering
+- Data mining
+   - Association rules
+   - Frequent, generator and closed patterns
+- Soft computing
+   - Swarm intelligence (PSO, CSA)
+   - Evolutionary computing
 - Computational biology
-   - gene regulatory network inference
-   - applications to medical research 
-   - multi-omics data integration
-
+   - Gene regulatory network inference
