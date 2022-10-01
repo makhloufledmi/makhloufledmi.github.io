@@ -8,40 +8,25 @@ display_categories:
 horizontal: false
 ---
 
-Assistant Professor in Statistics, MAP5, IUT Paris-Rives de Seine, Université Paris Cité
-
-#### Responsabilities
-
-- Associate editor of the [International Journal of Biostatistics](https://www.degruyter.com/journal/key/ijb/html)
-
+Assistant Professor in Computer Sciences, ICOSI, Mathematics and Computer Science Department, University of Khenchela
 
 #### Research interests
-
-- Statistical learning
-   - high-dimensional statistics
-   - graphical models
-   - penalized linear regressions
-   - sparse methods
-   - clustering
+- Data mining
+   - Association rules
+   - Frequent, generator and closed patterns
+- Soft computing
+   - Swarm intelligence (PSO, CSA)
+   - Evolutionary computing
 - Computational biology
-   - gene regulatory network inference
-   - applications to medical research 
-   - multi-omics data integration
+   - Gene regulatory network inference
    
 #### Current projects
 
-- In collaboration with Mathilde Pacault (Centre Hospitalier Régionale Universitaire, Brest), Camille Verebi (Hôpital Cochin, Paris) and Juliette Nectoux (Hôpital Cochin, Paris), we are working on Sequential Probability Ratio Tests with applications to Non-Invasive Prenatal Diagnosis (NIPD). 
-
-- In collaboration with Camille Champion (INRAE Jouy-en-Josas), I am also interested in regularized spectral clustering techniques for clustering large perturbed graphs. We are now working on applications of the l1-spectral clustering algorithm we developped on kidney cancer data.
+- PRFU: In collaboration with Haouassi Hichem (University of Khenchela), we are working on applications of the approaches of artificial intelligence, combinatorial optimization, machine learning and data mining for the analysis, management and mining of large databases. 
 
 #### Supervision of students
 
-- Semester thesis:
-    - Julia Netzel (4 months in 2022): student in Master of Applied Mathematics, ETH Zürich on "Handling Gender Bias in NLP Models".
-    
-- Bachelor thesis:
-    - Michael Vollenweider (5 months in 2022): student in Bachelor of Computational Science and Engineering, ETH Zürich on "Benchmark of gene regulatory network inference methods".
-    
-    - Riccardo Fumagalli (3 months in 2022): student in Bachelor of Mathematics, ETH Zürich on "Identification of genes involved in the development of ER+ breast cancer".
-    
-    
+- Master thesis:
+    - Guerrab Arifa & Rezeimia Linda (2022) students in Master of Security and Web Technologies, University of Khenchela on "Word sense disambiguation by High utility patterns in sentences".  
+    - Ahmed Boudjemaa (2021): student in Master of Software Engineering and Distributed Systems, University of Khenchela on "Implementation of an R package for mining frequent generator itemsets".
+     
