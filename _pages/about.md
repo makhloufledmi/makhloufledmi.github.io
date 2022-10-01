@@ -6,7 +6,7 @@ description: Assistant Professor in Computer Sciences, ICOSI, Mathematics and Co
 
 profile:
   align: right
-  image: DSC02641.JPG
+  image: Makh_UK.jpg
   address: >
     <p>Office 732-E</p>
     <p>ICOSI, University of Khenchela</p>
