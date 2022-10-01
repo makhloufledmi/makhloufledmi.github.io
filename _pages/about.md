@@ -2,25 +2,26 @@
 layout: about
 title: about
 permalink: /
-description: Assistant Professor in Statistics, MAP5, IUT Paris-Rives de Seine, Université Paris Cité
+description: Assistant Professor in Computer Sciences, ICOSI, Mathematics and Computer Science Department, University of Khenchela
 
 profile:
   align: right
   image: DSC02641.JPG
   address: >
     <p>Office 732-E</p>
-    <p>MAP5, Université Paris Cité</p>
-    <p>45 rue des Saints-Pères</p>
-    <p>75006 Paris</p>
-    <p><a href="mailto:magali.champion@u-paris.fr">magali.champion[at]u-paris[dot]fr</a></p>
+    <p>ICOSI, University of Khenchela</p>
+    <p>BP 1252 Road of Batna</p>
+    <p>40004 Paris</p>
+    <p><a href="mailto:ledmi.makhlouf@univ-khenchela.dz">ledmi.makhlouf[at]univ-khenchela[dot]dz</a></p>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am an assistant professor in Statistics at the department STID of IUT Paris-Rives de Seine, Université Paris Cité and a member of the [MAP5](https://map5.mi.parisdescartes.fr/) lab. I spent the first seven months of 2022 as a guest researcher at the [Seminar for Statistics](https://math.ethz.ch/sfs) lab from ETH Zürich.
+I am a Lecturer in Computer Sciences at the department MI of Sciences and Technology Faculty, University of Khenchela and a member of the [ICOSI](http://icosi40.chez.com/) lab. 
 
-Before that, I worked as a postdoctoral researcher at the MAP5, where I was part of a biomedical project. I also spent one year as a postdoctoral researcher at the Stanford Center for Biomedical Informatics Research (BMIR). I completed my PhD in December 2014 from Université Toulouse III under the supervision of Sébastien Gadat, Christine Cierco-Ayrolles and Matthieu Vignes.
+I received my BS degree from the University of Annaba, in 1997, MS degree from the University of Khenchela, in 2010 and PhD from the University of Batna 2, Algeria, in 2020, all in Computer Science. I served as the Head of Mathematics and Computer Science Department at the University of Khenchela, between 2015 and
+2017. My research interests include data mining, soft computing, and bioinformatics.
 
 For more info about me, please check my <a href="assets/pdf/CVMChampion2.pdf">CV (last update 07/2022)</a>.
 
