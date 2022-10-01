@@ -5,7 +5,7 @@ title: Teaching
 description2: I teach 288h per year at Sciences and Technology Faculty, University of Khenchela. You can reach me there at the following mailing address.
 profile:
   align: right
-  image: UniversiteParis_IUTParis-RdS.jpg
+  image: UniversiteKhenchela.jpg
 address2: Département M & CS
 address3: Sciences and Technology Faculty, University of Khenchela
 address4: Raod of Oum El Bouaghi, El Hamma, 40000 Khenchela 
