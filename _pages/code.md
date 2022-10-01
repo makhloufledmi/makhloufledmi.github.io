@@ -8,7 +8,7 @@ display_categories: [R-package,R codes]
 horizontal: true
 ---
 
-You can find below a list of my public codes. Most of them are available on my [github page](https://github.com/magalichampion).
+You can find below a list of my public codes. Most of them are available on my [github page](https://github.com/makhloufledmi).
 
 <div class="projects">
   {% if site.enable_project_categories and page.display_categories %}
