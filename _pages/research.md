@@ -22,7 +22,7 @@ Assistant Professor in Computer Sciences, ICOSI, Mathematics and Computer Scienc
    
 #### Current projects
 
-- PRFU: In collaboration with Haouassi Hichem (University of Khenchela), we are working on applications of the approaches of artificial intelligence, combinatorial optimization, machine learning and data mining for the analysis, management and mining of large databases. 
+- PRFU: In collaboration with Dr. Haouassi Hichem (University of Khenchela), we are working on applications of new approaches of artificial intelligence, combinatorial optimization, machine learning and data mining for the analysis, management and mining of large databases. 
 
 #### Supervision of students
 
