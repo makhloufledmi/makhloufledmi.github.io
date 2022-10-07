@@ -1,9 +1,9 @@
 ---
 layout: page
-title: GADAG
-description: A Genetic Algorithm for learning Directed Acyclic Graphs
+title: GrAFCI+
+description: A fast generator-based algorithm for mining frequent closed itemsets
 img: /assets/img/croisement.png
-redirect: https://cran.r-project.org/web/packages/GADAG/index.html
+redirect: 
 importance: 3
-category: R-package
+category: C Codes
 ---
