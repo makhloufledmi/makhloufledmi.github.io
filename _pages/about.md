@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 description: Assistant Professor in Computer Sciences, ICOSI, Mathematics and Computer Science Department, University of Khenchela
 
