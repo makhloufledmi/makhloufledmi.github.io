@@ -4,7 +4,7 @@ title: Codes
 permalink: /code/
 description: 
 nav: true
-display_categories: [R-package,R codes]
+display_categories: [R-package,R codes, C codes, Java codes, Others codes]
 horizontal: true
 ---
 
