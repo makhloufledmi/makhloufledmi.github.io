@@ -1,9 +1,9 @@
 ---
 layout: page
-title: LIONS
-description: Identifies deregulated genes in a gene regulatory network 
-img: /assets/img/lions.png
-redirect: https://github.com/magalichampion/LIONS_project
+title: DCSA-QAR
+description: A Discrete Crow Search Algorithm for Mining Quantitative Association Rules
+img: /assets/img/DCSA.png
+redirect: 
 importance: 2
-category: R codes
+category: Others codes
 ---
