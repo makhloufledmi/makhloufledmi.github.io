@@ -17,25 +17,31 @@ nav: true
 
 You can find below materials for some of the courses (mostly in french) I've taught the last few years:
 
-- Apprentissage en grande dimension : M2 Mathématiques, Modélisation, Apprentissage (MMA), Université de Paris (avec Andrés Almansa) <a href="{{site.baseurl}}/assets/pdf/Chap3_reducDim.pdf">[slides]</a>
+- Data Mining : M2 Génie Logiciel et Systèmes Distribués (GLSD), Université de Khenchela  <a href="{{site.baseurl}}/assets/pdf/Chap3_reducDim.pdf">[slides]</a>
 
-    - Rappels sur le modèle linéaire
+    - Introduction
     
-    - Sélection par tests multiples
+    - Fouille de données
     
-    - Réduction de dimension par ACP
+    - Classification
     
-    - Sélection de variables par pénalisation 
+    - Règles d'association
+    
+    - Clustering 
 
-- Tests paramétriques : 2èmes années FI (avec O. Bouaziz)  
+- Logique et fondements de l’informatique 1 : M1 Informatique Fondamentale et Appliquée (IFA), Université de Khenchela  <a href="{{site.baseurl}}/assets/pdf/Chap3_reducDim.pdf">[slides]</a>
 
-    - Introduction à la notion de tests <a href="{{site.baseurl}}/assets/pdf/Chap1.pdf">[Chapitre 1</a>, <a href="{{site.baseurl}}/assets/pdf/TD1.pdf">TD 1]</a>
+    - Introduction: Pourquoi la logique? Logique et Informatique
+
+    - Logique Propositionnelle: 
+          - Syntaxe: construction des formules, décomposition d'une formule.<a href="{{site.baseurl}}/assets/pdf/Chap1.pdf">[Chapitre 1</a>, <a href="{{site.baseurl}}/assets/pdf/TD1.pdf">TD 1]</a>
+          - Sémantique: valuation, interprétation, satisfaisabilité, tautologies, formules équivalentes, conséquence logique, formes normales.
+          - Systèmes de Preuve: Tableaux sémantiques, Déduction naturelle
     
-    - Tests paramétriques à un et deux échantillons <a href="{{site.baseurl}}/assets/pdf/Chap2.pdf">[Chapitre 2</a>, <a href="{{site.baseurl}}/assets/pdf/TD2.pdf">TD 2]</a>
-    
-    - Test du Χ2 d'indépendance et d'homogénéité
-    
-    - Tests de corrélation de Pearson et Spearman
+    - Calcul des prédicats:  <a href="{{site.baseurl}}/assets/pdf/Chap2.pdf">[Chapitre 2</a>, <a href="{{site.baseurl}}/assets/pdf/TD2.pdf">TD 2]</a>
+            - Syntaxe: Construction des termes, formules, variables libres, variables liées.
+	          - Sémantique: structure et langages, satisfaisabilité, formules valides, formules équivalentes, formules prénexes, forme de Skolem.
+	          - Système de preuve: tableaux sémantiques, déduction naturelle.
 
 - Modèles linéaires : 2èmes années FA (alternance) 
 
