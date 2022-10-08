@@ -19,15 +19,17 @@ You can find below materials for some of the courses (mostly in french) I've tau
 
 - Data Mining : M2 Génie Logiciel et Systèmes Distribués (GLSD), Université de Khenchela  <a href="{{site.baseurl}}/assets/pdf/Chap3_reducDim.pdf">[slides]</a>
 
-    - Introduction
+    - Introduction à la fouille de données
     
-    - Fouille de données
+    - Le processus ECD
     
-    - Classification
+    - Les tâches de la fouille de données:
     
-    - Règles d'association
+	    - Classification
     
-    - Clustering 
+	    - Règles d'association
+    
+	    - Clustering 
 
 - Logique et fondements de l’informatique 1 : M1 Informatique Fondamentale et Appliquée (IFA), Université de Khenchela  
 
