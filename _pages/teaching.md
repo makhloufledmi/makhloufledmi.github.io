@@ -58,6 +58,7 @@ You can find below materials for some of the courses (mostly in french) I've tau
     - Présentation de XML: historique, intérêts, Applications de XML.
     
     - Syntaxe et structure XML: structure d'un document XML
+	    
 	    - Structure d'un document XML.
   
 	    - Validation d'un document XML.
