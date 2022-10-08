@@ -35,18 +35,15 @@ You can find below materials for some of the courses (mostly in french) I've tau
 
     - Logique Propositionnelle: 
     
-            - Syntaxe: construction des formules, décomposition d'une formule.<a href="{{site.baseurl}}/assets/pdf/Chap1.pdf">[Chapitre 1</a>, <a href="{{site.baseurl}}/assets/pdf/TD1.pdf">TD 1]</a>
+            - Syntaxe: construction des formules, décomposition d'une formule.
             
             - Sémantique: valuation, interprétation, satisfaisabilité, tautologies, formules équivalentes, conséquence logique, formes normales.
             
             - Systèmes de Preuve: Tableaux sémantiques, Déduction naturelle
     
     - Calcul des prédicats:  <a href="{{site.baseurl}}/assets/pdf/Chap2.pdf">[Chapitre 2</a>, <a href="{{site.baseurl}}/assets/pdf/TD2.pdf">TD 2]</a>
-    
-            - Syntaxe: Construction des termes, formules, variables libres, variables liées.
-	
+            - Syntaxe: Construction des termes, formules, variables libres, variables liées
             - Sémantique: structure et langages, satisfaisabilité, formules valides, formules équivalentes, formules prénexes, forme de Skolem.
-	
 	    - Système de preuve: tableaux sémantiques, déduction naturelle.
 
 - Modèles linéaires : 2èmes années FA (alternance) 
