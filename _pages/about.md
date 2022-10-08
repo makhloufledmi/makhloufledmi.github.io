@@ -22,7 +22,7 @@ I am a Lecturer in Computer Sciences at the M&CS department of Sciences and Tech
 
 I received my BS degree from the University of Annaba, in 1997, MS degree from the University of Khenchela, in 2010 and PhD from the University of Batna 2, Algeria, in 2020, all in Computer Science. I served as the Head of Mathematics and Computer Science Department at the University of Khenchela, between 2015 and 2017.
 
-For more info about me, please check my <a href="assets/pdf/CVMChampion2.pdf">CV (last update 07/2022)</a>.
+For more info about me, please check my <a href="assets/pdf/CV Makhlouf L.pdf">CV (last update 09/2022)</a>.
 
 
 
