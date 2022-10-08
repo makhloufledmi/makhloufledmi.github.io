@@ -34,16 +34,19 @@ You can find below materials for some of the courses (mostly in french) I've tau
     - Introduction: Pourquoi la logique? Logique et Informatique
 
     - Logique Propositionnelle: 
-    
-            - Syntaxe: construction des formules, décomposition d'une formule.
-            
-            - Sémantique: valuation, interprétation, satisfaisabilité, tautologies, formules équivalentes, conséquence logique, formes normales.
-            
-            - Systèmes de Preuve: Tableaux sémantiques, Déduction naturelle
+    	    
+	    - Syntaxe: construction des formules, décomposition d'une formule.
+           
+	    - Sémantique: valuation, interprétation, satisfaisabilité, tautologies, formules équivalentes, conséquence logique, formes normales.
+	    
+	    - Systèmes de Preuve: Tableaux sémantiques, Déduction naturelle
     
     - Calcul des prédicats:  <a href="{{site.baseurl}}/assets/pdf/Chap2.pdf">[Chapitre 2</a>, <a href="{{site.baseurl}}/assets/pdf/TD2.pdf">TD 2]</a>
-            - Syntaxe: Construction des termes, formules, variables libres, variables liées
-            - Sémantique: structure et langages, satisfaisabilité, formules valides, formules équivalentes, formules prénexes, forme de Skolem.
+            
+	    - Syntaxe: Construction des termes, formules, variables libres, variables liées
+            
+	    - Sémantique: structure et langages, satisfaisabilité, formules valides, formules équivalentes, formules prénexes, forme de Skolem.
+	    
 	    - Système de preuve: tableaux sémantiques, déduction naturelle.
 
 - Modèles linéaires : 2èmes années FA (alternance) 
