@@ -6,7 +6,7 @@ description: Assistant Professor in Computer Sciences, ICOSI, Mathematics and Co
 
 profile:
   align: right
-  image: Makh_UK.jpg
+  image: Makh_UK2.jpg
   address: >
     <p>Mathematics and Computer Science Department</p>
     <p>ICOSI, Abbes Laghrour University</p>
