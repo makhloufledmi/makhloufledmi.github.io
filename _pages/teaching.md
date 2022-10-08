@@ -29,25 +29,25 @@ You can find below materials for some of the courses (mostly in french) I've tau
     
     - Clustering 
 
-- Logique et fondements de l’informatique 1 : M1 Informatique Fondamentale et Appliquée (IFA), Université de Khenchela  <a href="{{site.baseurl}}/assets/pdf/Chap3_reducDim.pdf">[slides]</a>
+- Logique et fondements de l’informatique 1 : M1 Informatique Fondamentale et Appliquée (IFA), Université de Khenchela  
 
     - Introduction: Pourquoi la logique? Logique et Informatique
 
     - Logique Propositionnelle: 
     	    
-	    - Syntaxe: construction des formules, décomposition d'une formule.
+	    - Syntaxe: construction des formules, décomposition d'une formule (<a href="{{site.baseurl}}/assets/pdf/LPropSynSem .pdf">[Slides</a>, <a href="{{site.baseurl}}/assets/pdf/TD-1-LFI.pdf">TD 1]</a>).
            
-	    - Sémantique: valuation, interprétation, satisfaisabilité, tautologies, formules équivalentes, conséquence logique, formes normales.
+	    - Sémantique: valuation, interprétation, satisfaisabilité, tautologies, formules équivalentes, conséquence logique, formes normales (<a href="{{site.baseurl}}/assets/pdf/LPropSynSem .pdf">[Slides</a>, <a href="{{site.baseurl}}/assets/pdf/TD-2-LFI.pdf">TD 2]</a>).
 	    
-	    - Systèmes de Preuve: Tableaux sémantiques, Déduction naturelle
+	    - Systèmes de Preuve: Tableaux sémantiques, Déduction naturelle ( <a href="{{site.baseurl}}/assets/pdf/LPropTabSemantique.PDF">[Slides</a>, <a href="{{site.baseurl}}/assets/pdf/TD-3-LFI.pdf">TD 3]</a> <a href="{{site.baseurl}}/assets/pdf/TD-4-LFI.pdf">TD 4]</a>)
     
-    - Calcul des prédicats:  <a href="{{site.baseurl}}/assets/pdf/Chap2.pdf">[Chapitre 2</a>, <a href="{{site.baseurl}}/assets/pdf/TD2.pdf">TD 2]</a>
+    - Calcul des prédicats:  
             
-	    - Syntaxe: Construction des termes, formules, variables libres, variables liées
+	    - Syntaxe: Construction des termes, formules, variables libres, variables liées (<a href="{{site.baseurl}}/assets/pdf/LPred-Syn.PDF">[Slides</a>, <a href="{{site.baseurl}}/assets/pdf/TD-5-LFI.pdf">TD 5]</a>).
             
-	    - Sémantique: structure et langages, satisfaisabilité, formules valides, formules équivalentes, formules prénexes, forme de Skolem.
+	    - Sémantique: structure et langages, satisfaisabilité, formules valides, formules équivalentes, formules prénexes, forme de Skolem (<a href="{{site.baseurl}}/assets/pdf/LPred-Sem1.PDF">[Slides</a>,<a href="{{site.baseurl}}/assets/pdf/TD-6-LFI.pdf">TD 6]</a>).
 	    
-	    - Système de preuve: tableaux sémantiques, déduction naturelle.
+	    - Système de preuve: tableaux sémantiques, déduction naturelle (<a href="{{site.baseurl}}/assets/pdf/LPredDedNat-RegBase.pdf">[Slides</a>,<a href="{{site.baseurl}}/assets/pdf/LPredDedNat-RegDerivees.pdf">[Slides</a>,<a href="{{site.baseurl}}/assets/pdf/TD-7-LFI.pdf">TD 7]</a>).
 
 - Modèles linéaires : 2èmes années FA (alternance) 
 
