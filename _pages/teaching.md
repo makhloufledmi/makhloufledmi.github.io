@@ -39,7 +39,7 @@ You can find below materials for some of the courses (mostly in french) I've tau
            
 	    - Sémantique: valuation, interprétation, satisfaisabilité, tautologies, formules équivalentes, conséquence logique, formes normales (<a href="{{site.baseurl}}/assets/pdf/LPropSynSem .pdf">Slides</a>, <a href="{{site.baseurl}}/assets/pdf/TD-2-LFI.pdf">TD 2</a>).
 	    
-	    - Systèmes de Preuve: Tableaux sémantiques, Déduction naturelle ( <a href="{{site.baseurl}}/assets/pdf/LPropTabSemantique.PDF">Slides</a>, <a href="{{site.baseurl}}/assets/pdf/TD-3-LFI.pdf">TD 3</a> <a href="{{site.baseurl}}/assets/pdf/TD-4-LFI.pdf">TD 4</a>)
+	    - Systèmes de Preuve: Tableaux sémantiques, Déduction naturelle ( <a href="{{site.baseurl}}/assets/pdf/LPropTabSemantique.PDF">Slides</a>, <a href="{{site.baseurl}}/assets/pdf/TD-3-LFI.pdf">TD 3</a>, <a href="{{site.baseurl}}/assets/pdf/TD-4-LFI.pdf">TD 4</a>)
     
     - Calcul des prédicats:  
             
@@ -47,5 +47,5 @@ You can find below materials for some of the courses (mostly in french) I've tau
             
 	    - Sémantique: structure et langages, satisfaisabilité, formules valides, formules équivalentes, formules prénexes, forme de Skolem (<a href="{{site.baseurl}}/assets/pdf/LPred-Sem1.PDF">Slides</a>,<a href="{{site.baseurl}}/assets/pdf/TD-6-LFI.pdf">TD 6</a>).
 	    
-	    - Système de preuve: tableaux sémantiques, déduction naturelle (<a href="{{site.baseurl}}/assets/pdf/LPredDedNat-RegBase.pdf">Slides 1</a>,<a href="{{site.baseurl}}/assets/pdf/LPredDedNat-RegDerivees.pdf">Slides 2</a>,<a href="{{site.baseurl}}/assets/pdf/TD-7-LFI.pdf">TD 7</a>).
+	    - Système de preuve: tableaux sémantiques, déduction naturelle (<a href="{{site.baseurl}}/assets/pdf/LPredDedNat-RegBase.pdf">Slides-1</a>, <a href="{{site.baseurl}}/assets/pdf/LPredDedNat-RegDerivees.pdf">Slides-2</a>, <a href="{{site.baseurl}}/assets/pdf/TD-7-LFI.pdf">TD 7</a>).
 
