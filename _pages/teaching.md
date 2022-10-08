@@ -53,3 +53,20 @@ You can find below materials for some of the courses (mostly in french) I've tau
 	    
 	    - Système de preuve: tableaux sémantiques, déduction naturelle (<a href="{{site.baseurl}}/assets/pdf/LPredDedNat-RegBase.pdf">Slides-1</a>, <a href="{{site.baseurl}}/assets/pdf/LPredDedNat-RegDerivees.pdf">Slides-2</a>, <a href="{{site.baseurl}}/assets/pdf/TD-7-LFI.pdf">TD 7</a>).
 
+- Programmation XML: M1 Sécurité et Technologies Web (STW), Université de Khenchela 
+
+    - Présentation de XML: historique, intérêts, Applications de XML.
+    
+    - Syntaxe et structure XML: structure d'un document XML
+    
+    	    - Structure d'un document XML.
+    
+	    - Validation d'un document XML.
+    
+	    - Extraire des informations d’un document XML (XPath).
+
+    - Publication des documents XML: rôle, format XHTML, format XSLT.
+    
+    - Base de données natives XML.
+
+    - Programmation XML: SAX, DOM, JDOM.
