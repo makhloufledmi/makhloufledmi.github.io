@@ -17,7 +17,7 @@ nav: true
 
 You can find below materials for some of the courses (mostly in french) I've taught the last few years:
 
-- Data Mining : M2 Génie Logiciel et Systèmes Distribués (GLSD), Université de Khenchela  <a href="{{site.baseurl}}/assets/pdf/Chap3_reducDim.pdf">(olycopié)</a>
+- Data Mining : M2 Génie Logiciel et Systèmes Distribués (GLSD), Université de Khenchela  <a href="{{site.baseurl}}/assets/pdf/Polycopie.pdf">(polycopié)</a>
 
     - Introduction à la fouille de données <a href="{{site.baseurl}}/assets/pdf/Introduction DM.pdf">(slides)</a>
     
