@@ -17,19 +17,21 @@ nav: true
 
 You can find below materials for some of the courses (mostly in french) I've taught the last few years:
 
-- Data Mining : M2 Génie Logiciel et Systèmes Distribués (GLSD), Université de Khenchela  <a href="{{site.baseurl}}/assets/pdf/Chap3_reducDim.pdf">[slides]</a>
+- Data Mining : M2 Génie Logiciel et Systèmes Distribués (GLSD), Université de Khenchela  <a href="{{site.baseurl}}/assets/pdf/Chap3_reducDim.pdf">(olycopié)</a>
 
-    - Introduction à la fouille de données
+    - Introduction à la fouille de données <a href="{{site.baseurl}}/assets/pdf/Introduction DM.pdf">(slides)</a>
     
-    - Le processus ECD
+    - Le processus ECD <a href="{{site.baseurl}}/assets/pdf/Introduction DM.pdf">(slides)</a>
     
     - Les tâches de la fouille de données:
     
-	    - Classification
+	    - Classification (<a href="{{site.baseurl}}/assets/pdf/Classification.pdf">slides </a>, <a href="{{site.baseurl}}/assets/pdf/TD n°1 FDD.pdf"> TD</a>).
     
-	    - Règles d'association
+	    - Règles d'association (<a href="{{site.baseurl}}/assets/pdf/Regles d'association.pdf">slides </a>, <a href="{{site.baseurl}}/assets/pdf/TD n°2 FDD.pdf"> TD</a>).
     
-	    - Clustering 
+	    - Clustering (<a href="{{site.baseurl}}/assets/pdf/Clustering.pdf"> slides </a>, <a href="{{site.baseurl}}/assets/pdf/TD n°3 FDD.pdf"> TD</a>).
+
+    - R et la fouille de données (<a href="{{site.baseurl}}/assets/pdf/TP R et DM.pdf">slides </a>).
 
 - Logique et fondements de l’informatique 1 : M1 Informatique Fondamentale et Appliquée (IFA), Université de Khenchela  
 
