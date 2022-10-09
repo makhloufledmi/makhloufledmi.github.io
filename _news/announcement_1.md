@@ -1,7 +1,8 @@
 ---
 layout: post
-date: 2022-01-26 07:59:00-0400
+date: 2022-10-09 07:59:00-0400
 inline: true
 ---
 
-A new version of the [l1 spectral-clustering](https://hal.archives-ouvertes.fr/hal-03095805) paper is available online. 📰
+"There is joy in work. There is no happiness except in the realization that we have accomplished something".
+-- Henry Ford📰
