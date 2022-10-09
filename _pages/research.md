@@ -8,7 +8,7 @@ display_categories:
 horizontal: false
 ---
 
-Assistant Professor in Computer Sciences, ICOSI, Mathematics and Computer Science Department, University of Khenchela
+Assistant Professor in Computer Science, ICOSI, Mathematics and Computer Science Department, University of Khenchela
 
 #### Research interests
 - Data mining
